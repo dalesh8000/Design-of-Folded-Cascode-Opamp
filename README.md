@@ -1,2 +1,2 @@
-# Design-of-Folded-Cascode-Opamp-in-Closed-Loop-Configuration
-Designing an LDO Regulator for 1.5V and Load Current range of 100n-100mA. The design incorporates a current reference generation circuit along with a single-stage folded cascode op-amp.
+# Design-of-Folded-Cascode-Opamp
+To design a high-performance folded cascode operational amplifier with a focus on maximizing gain, bandwidth, and power efficiency while maintaining stability and linearity. The design will emphasize minimizing noise and offset voltage, achieving a high common-mode rejection ratio (CMRR), and ensuring robustness across process, voltage, and temperature variations. The final implementation will be evaluated based on its suitability for use in low-power analog and mixed-signal applications, where precision and reliability are critical.
